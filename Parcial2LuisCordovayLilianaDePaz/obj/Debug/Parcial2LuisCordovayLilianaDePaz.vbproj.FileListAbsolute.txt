@@ -1,0 +1,12 @@
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\bin\Debug\Parcial2LuisCordovayLilianaDePaz.exe.config
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\bin\Debug\Parcial2LuisCordovayLilianaDePaz.exe
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\bin\Debug\Parcial2LuisCordovayLilianaDePaz.pdb
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\bin\Debug\Parcial2LuisCordovayLilianaDePaz.xml
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\obj\Debug\Parcial2LuisCordovayLilianaDePaz.vbproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\obj\Debug\Parcial2LuisCordovayLilianaDePaz.Form1.resources
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\obj\Debug\Parcial2LuisCordovayLilianaDePaz.Resources.resources
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\obj\Debug\Parcial2LuisCordovayLilianaDePaz.vbproj.GenerateResource.cache
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\obj\Debug\Parcial2LuisCordovayLilianaDePaz.vbproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\obj\Debug\Parcial2LuisCordovayLilianaDePaz.exe
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\obj\Debug\Parcial2LuisCordovayLilianaDePaz.xml
+C:\Users\luisc\source\repos\Parcial2LuisCordovayLilianaDePaz\obj\Debug\Parcial2LuisCordovayLilianaDePaz.pdb
